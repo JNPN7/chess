@@ -1,2 +1,3 @@
-# chess
-just for fun chess hahaha
+# Chess
+
+Multiplayer chess using sockets
